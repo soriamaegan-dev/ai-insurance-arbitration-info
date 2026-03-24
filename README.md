@@ -31,10 +31,10 @@ The AI Insurance Arbitration Assistant helps insurance professionals prepare for
 
 ---
 
-## 5 Powerful Tools in One App
+## 6 Powerful Tools in One App
 
 **⚖️ Liability & Accident Reconstructor**
-Describe the accident, select vehicle directions and damage areas, and get a complete arbitration argument with state-specific vehicle code citations arguing why your insured is not at fault. Supports 2 and 3 vehicle accidents across all 50 states.
+Describe the accident, select vehicle directions and damage areas, and get a complete arbitration argument with state-specific vehicle code citations arguing why your insured is not at fault. Supports 2 and 3 vehicle accidents across all 50 states. Upload up to 8 scene and damage photos, a police report, and recorded statements from both parties for the most comprehensive analysis.
 
 **🔧 Repair Estimate Analyzer**
 Upload the repair estimate and up to 6 damage photos. The AI performs a strict 5-step vehicle verification check covering Year, Make, Model, Color, and Damage Location. It identifies unnecessary repairs, disputes labor rates, flags unsupported operations, calculates the total loss threshold, and delivers a clear final determination — SHOULD HAVE BEEN DECLARED A TOTAL LOSS or REPAIRS WERE REASONABLE. Works even with no estimate for obvious total loss scenarios.
@@ -47,6 +47,9 @@ Upload the valuation report and the AI reviews ACV reasonableness, analyzes refu
 
 **🏥 Bodily Injury Analyzer**
 Upload medical records and impact photos. The AI performs biomechanical analysis, evaluates injury consistency with impact severity, reviews medical billing against state fee schedules, assesses causation, and generates dispute contentions for excessive or unrelated treatment.
+
+**💬 AI Document Chat**
+Upload up to 4 insurance documents (PDFs or images) and have a full conversation with the AI about their contents. Ask any question about your claim documents — the AI will analyze, summarize, compare, and generate arbitration contentions based on the specific documents you upload. Maintains conversation history so you can ask follow-up questions.
 
 ---
 
@@ -63,8 +66,14 @@ Upload medical records and impact photos. The AI performs biomechanical analysis
 - Mitchell labor time standards for rental disputes
 - Upload PDFs or images for all documents
 - Upload up to 6 damage photos per repair analysis
+- Upload up to 8 scene and damage photos in Liability tab
+- Police report upload in Liability tab
+- Recorded Statement — Insured Party upload in Liability tab
+- Recorded Statement — Adverse Party upload in Liability tab
+- AI Document Chat with up to 4 simultaneous document uploads
+- Conversation history maintained throughout chat session
 - Copyright watermark embedded in every analysis output
-- HIPAA notice on bodily injury tab
+- HIPAA notice on Bodily Injury tab
 - PII and VIN redaction warnings on all tabs
 - Legal disclaimer on every page
 
@@ -108,6 +117,14 @@ The AI is performing multiple complex tasks simultaneously including:
 8. **Wait 1-2 minutes** — do not click again
 9. Review all sections including total loss determination and arbitration contentions
 10. Note the copyright watermark on all outputs before sharing
+
+### AI Document Chat
+1. Click the **AI Document Chat** tab
+2. Upload up to 4 PDFs or images
+3. Add optional context about the claim
+4. Type your question and click Send or press Enter
+5. Ask follow-up questions — the AI remembers the conversation
+6. Click Clear Chat to start a new session
 
 ---
 
